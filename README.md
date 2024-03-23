@@ -9,7 +9,7 @@
 Modelo de ALV para Classe CL_SALV_TABLE e método FACTORY
 
 
-*Notes: Some people reported that browsers have issues displaying the file with more than 100k lines. The easiest solution is to "Save as" the link above and then open it with any editor/viewer (notepad included) and copy from there. If your SAP GUI editor freezes when pasting the code, use Utilities > More Utilities > Upload/Download > Upload in the editor instead.*
+*Notss: Some people reported that browsers have issues displaying the file with more than 100k lines. The easiest solution is to "Save as" the link above and then open it with any editor/viewer (notepad included) and copy from there. If your SAP GUI editor freezes when pasting the code, use Utilities > More Utilities > Upload/Download > Upload in the editor instead.*
 
 It is recommended to use SAP GUI for Windows, since there are known issues related to running abapGit and SAP GUI for Java. The focus of abapGit is on supporting [ADT](https://github.com/abapGit/ADT_Frontend) instead of supporting SAP GUI for Java.
 
